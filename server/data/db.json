@@ -1,0 +1,27 @@
+{
+  "activities": [],
+  "searches": [
+    {
+      "id": "searches-1763277020442",
+      "ts": "2025-11-16T07:10:20.442Z",
+      "query": "React Development",
+      "resultsCount": 2,
+      "source": "articles"
+    },
+    {
+      "id": "searches-1763277020456",
+      "ts": "2025-11-16T07:10:20.456Z",
+      "query": "React Development",
+      "resultsCount": 1,
+      "source": "papers"
+    },
+    {
+      "id": "searches-1763277020984",
+      "ts": "2025-11-16T07:10:20.984Z",
+      "query": "React Development",
+      "resultsCount": 5,
+      "source": "youtube"
+    }
+  ],
+  "learnings": []
+}
